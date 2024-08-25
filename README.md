@@ -45,8 +45,8 @@ Follow these steps to install and run the Resume Optimizer program on your local
    Start by cloning the repository from GitHub to your local machine. Open a terminal or command prompt and run the following commands:
 
    ```bash
-   git clone https://github.com/yourusername/resume-optimizer.git
-   cd resume-optimizer
+   git clone [https://github.com/meeth-shah/resume-analyzer.git](https://github.com/meeth-shah/resume-analyzer.git)
+   cd resume-analyzer
    ```
 This will download the project files and navigate into the project directory.
 
