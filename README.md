@@ -249,7 +249,7 @@ By understanding and applying these insights, you can optimize your resume to be
    ```
 
 ## License
-   This project is licensed under the MIT License. See the LICENSE file for more details.
+   This project is licensed under the MIT License. See the [LICENSE](https://github.com/meeth-shah/resume-analyzer/blob/main/LICENSE) file for more details.
 
 ## Contact
    For any questions or suggestions, please open an issue on this GitHub repository or contact me at meeth.shah@outlook.com
