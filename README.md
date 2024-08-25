@@ -106,7 +106,7 @@ Run the Program
 Execute the script to start optimizing your resume. The program will prompt you to select your resume PDF and a CSV file containing job descriptions.
 
    ```bash
-   python resume_optimizer.py
+   python resume_analyzer_csv_final.py
    ```
 
 A file dialog will appear allowing you to select the required files:
